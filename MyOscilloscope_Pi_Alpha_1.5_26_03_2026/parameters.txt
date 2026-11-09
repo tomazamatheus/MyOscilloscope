@@ -1,0 +1,8 @@
+show_welcome = false
+language = English
+offs_CH1 = 1.644
+offs_CH2 = 1.649
+attn_CH1 = 2.033
+attn_CH2 = 2.040
+phase_corr = -0.00200
+samplingRate = 250000

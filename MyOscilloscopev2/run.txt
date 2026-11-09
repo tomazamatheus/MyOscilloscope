@@ -1,0 +1,1 @@
+python c:/Pico/MyOscilloscopev2/test.py

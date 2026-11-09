@@ -1,0 +1,18 @@
+# Repositório MyOscilloscope: só as duas pastas do projeto entram.
+# Todo o resto de c:\Pico (backups, .rar, versões antigas) fica de fora.
+/*
+!/.gitignore
+!/README.md
+!/MyOscilloscope_Pi_Alpha_1.5_26_03_2026/
+!/MyOscilloscopev2/
+
+# --- Gerados / pesados ---
+venv_pyside/
+__pycache__/
+*.pyc
+build/
+
+# --- Scripts de teste antigos e backups ---
+/MyOscilloscope_Pi_Alpha_1.5_26_03_2026/teste*.py
+/MyOscilloscopev2/test.py
+/MyOscilloscopev2/bkup/

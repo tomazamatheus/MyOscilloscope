@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="images">
+    <file>Screen_MyOscPi_ON.png</file>
+    <file>Screen_MyOscPi.png</file>
+    <file>images.qrc</file>
+    <file>Screen_MyOscPi_SignalAdjust_Open.png</file>
+    <file>screen_rect.png</file>
+    <file>biggest_rect.png</file>
+  </qresource>
+</RCC>
